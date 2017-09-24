@@ -1,7 +1,7 @@
 id=magisk-permissive-script
 name=Magisk SELinux Permissive Script
-version=v1
+version=v1.1
 versionCode=1
 author=jman420
 description=Installs a simple script that enables SELinux Permissive Mode during Magisk Startup.
-template=3
+template=1400
